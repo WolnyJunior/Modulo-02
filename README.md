@@ -23,4 +23,8 @@
  <p>Para adicionar a imagem, utiliza-se a tag <span style="font-weight: bolder;">&lt;img&gt;</span>, que não precisa de uma tag de fechamento. E para o link, a tag <span style="font-weight: bolder;">&lt;a&gt;</span> onde tem a propriedade <span style="font-weight:bolder;">href</span>. Onde é colocado o link direcionando ao endereço desejado. Entre a tag de abertura e da de fechamento &lt;/a&gt;, deve conter o texto/mensagem do link.</p>
  <p>Exemplo: &lt;a href="endereço do link"&gt;Diga oi para o seu futuro! - LAB365&lt;/a&gt;</p>
 
+ <h3>Exercício 03</h3>
+ <p>Nesse exercício, foi adicionado uma tag &lt;style&gt; dentro da tag &lt;head&gt; do documento HTML.</p>
+ <p>Dentro dessa tag style, foram estilizados os elemntos <span style="font-weight: bolder;">h1</span> e <span style="font-weight: bolder;">p</span>.</p>
+
 - [Indice](#indice)
