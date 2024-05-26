@@ -34,4 +34,9 @@
  <p>Para adicionar itens nas listas foi utilizada a tag &lt;li&gt;</p>
  <p>Foi utilizada a tag &lt;h3&gt; para dar um título estilizado à lista.</p>
 
+ <h3>Exercício 05</h3>
+ <p>Nesse exercíco foi adicionado a pasta /style e o arquivo style.css, que será utilizado para adicinar estilização à página HTML</p>
+ <p>Para utilizar o arquivo externo, um link deve ser adicionado na tag &lt;head&gt; do documento HTML, contendo o caminho até o arquivo style.css.</p>
+ <p>Nesse exercício, o arquivo style.css foi utilizado somente para estilizar a div adicionada ao documento HTML.</p>
+
 - [Indice](#indice)
