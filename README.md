@@ -27,4 +27,11 @@
  <p>Nesse exercício, foi adicionado uma tag &lt;style&gt; dentro da tag &lt;head&gt; do documento HTML.</p>
  <p>Dentro dessa tag style, foram estilizados os elemntos <span style="font-weight: bolder;">h1</span> e <span style="font-weight: bolder;">p</span>.</p>
 
+ <h3>Exercício 04</h3>
+ <p>Nesse exercíco, foram adicionadas duas listas:</p>
+ <p>A lista <span style="font-weight: bolder;">desordenada</span> foi adicionada utilizando a tag &lt;ul&gt;.</p>
+ <p>A lista <span style="font-weight: bolder;">ordenada</span> foi adicionada utilizando a tag &lt;ol&gt;.</p>
+ <p>Para adicionar itens nas listas foi utilizada a tag &lt;li&gt;</p>
+ <p>Foi utilizada a tag &lt;h3&gt; para dar um título estilizado à lista.</p>
+
 - [Indice](#indice)
