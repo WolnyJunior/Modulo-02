@@ -18,4 +18,9 @@
  <li>Inclua um texto no corpo do documento. Use a sua criatividade e escreva algo interessante.</li>
  </ul>
 
+ <h3>Exercício 02</h3>
+ <p>Neste exercício, foi inserido no corpo do documento HTML, uma imagem do logotipo da LAB365 e o link do site. A imagem e o link foram retirados do cartão de exercício disponibilizado no trello.</p>
+ <p>Para adicionar a imagem, utiliza-se a tag <span style="font-weight: bolder;">&lt;img&gt;</span>, que não precisa de uma tag de fechamento. E para o link, a tag <span style="font-weight: bolder;">&lt;a&gt;</span> onde tem a propriedade <span style="font-weight:bolder;">href</span>. Onde é colocado o link direcionando ao endereço desejado. Entre a tag de abertura e da de fechamento &lt;/a&gt;, deve conter o texto/mensagem do link.</p>
+ <p>Exemplo: &lt;a href="endereço do link"&gt;Diga oi para o seu futuro! - LAB365&lt;/a&gt;</p>
+
 - [Indice](#indice)
