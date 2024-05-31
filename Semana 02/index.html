@@ -17,6 +17,28 @@
         <li>Item 3</li>
     </ul>
 
+    <div class="formulario">
+        <form id="meu-formulario">
+            <label for="nome">Nome:</label>
+            <input id="nome" type="text" placeholder="Digite seu nome:">
+            <label for="email">Email:</label>
+            <input id="email" type="email" placeholder="Digite seu email:">
+            <label for="text">Mensagem:</label>
+            <textarea id="texto" placeholder="Digite uma Mensagem"></textarea>
+            <div class="botoes">
+                <button class="enviar" type="submit">Enviar</button>
+                <button class="reset" type="reset">Zerar</button>
+            </div>
+        </form>
+    </div>
+    <div class="resposta-form">
+        <span id="resultadoNome"></span>
+        <span id="resultadoEmail"></span>
+        <span id="resultadoMsg"></span>
+    </div>
+
+    <script src="script.js"></script>
+
 </body>
 
 </html>
