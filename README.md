@@ -3,6 +3,7 @@
 ## Indice
 - [Visão Geral](#visão-geral)
 - [Semana 01](#semana-01)
+- [Semana 02](#semana-02)
 
 ## Visão Geral
 <p>Este repositório foi criado para compartilhar no trello, os exercícios das atividades semanais do curso FuturoDev pelo LAB365 do Senai SC.</p>
@@ -38,5 +39,37 @@
  <p>Nesse exercíco foi adicionado a pasta /style e o arquivo style.css, que será utilizado para adicinar estilização à página HTML</p>
  <p>Para utilizar o arquivo externo, um link deve ser adicionado na tag &lt;head&gt; do documento HTML, contendo o caminho até o arquivo style.css.</p>
  <p>Nesse exercício, o arquivo style.css foi utilizado somente para estilizar a div adicionada ao documento HTML.</p>
+
+- [Indice](#indice)
+
+## Semana 02
+<h3>Exercício 01</h3>
+<p>Neste exercício, foi criado uma página index.html contendo um título com tag &lt;h1&gt;</p>
+<p>Foi adiciona um parágrafo com a tag &lt;p&gt;</p>
+<p>E foi adiciona uma lista não ordenada &lt;ol&gt; com 3 itens dentro &lt;li&gt;</p>
+
+<h3>Exercício 02</h3>
+<p>Neste exercício foi adicionado o arquivo CSS para dar estilização na página em desenvolvimento.</p>
+<p>Foram colocados backgrounds nas tags &lt;h1&gt; e &lt;p&gt;.</p>
+<p>Na lista ordenada, foi adicionado um background linear-gradient</p>
+
+<h3>Exercício 03</h3>
+<p>Neste exercício, foi adicionado um formulário para coletar nome, email e uma mensagem.</p>
+<p>Através da manipulação DOM e com um EventListener é possível coletar os dados e retornar em um console.log e também no navegador.</p>
+<p>Foram adicionados dois botões, um para enviar os dados do formulário, e outro para resetar.</p>
+
+<h3>Exercício 04</h3>
+<p>Neste exercício deveria ser feita a instalação e configuração do GIT, para utilizar no computador.</p>
+<p>Porém, este sistema de versionamento já é utilizado há algum tempo.</p>
+
+<h3>Exercício 05</h3>
+<p>Neste exercício, deveria clonar um repositório do github, e abrir no editor de código.</p>
+<p>Clonar um respositório é uma prática comum, pois utilizo uma base de sequelize que está em meu repositório no github.</p>
+
+<h3>Exercício 06</h3>
+<p>Neste exercício deveria ser feitas alterações no repositório clonado, alterar o endereço de armazenamento do repositório e fazer um push para adicionar ao github.</p>
+
+<h3>Exercício 07</h3>
+<p>Neste exercício, deveria simular uma colaboração em um projeto, utilizando git e github.</p>
 
 - [Indice](#indice)
