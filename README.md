@@ -4,6 +4,7 @@
 - [Visão Geral](#visão-geral)
 - [Semana 01](#semana-01)
 - [Semana 02](#semana-02)
+- [Semana 03](#semana-03)
 
 ## Visão Geral
 <p>Este repositório foi criado para compartilhar no trello, os exercícios das atividades semanais do curso FuturoDev pelo LAB365 do Senai SC.</p>
@@ -71,5 +72,12 @@
 
 <h3>Exercício 07</h3>
 <p>Neste exercício, deveria simular uma colaboração em um projeto, utilizando git e github.</p>
+
+- [Indice](#indice)
+
+## Semana 03
+<h3>Exercício 01</h3>
+<p>Neste exercício foi desenvolvida uma página web que fosse utilizada como uma apresentação utilizando algumas tag semânticas</p>
+<p>Foi utilizada a biblioteca fontawesome para adicionar alguns ícones.</p>
 
 - [Indice](#indice)
