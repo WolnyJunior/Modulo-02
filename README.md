@@ -80,4 +80,7 @@
 <p>Neste exercício foi desenvolvida uma página web que fosse utilizada como uma apresentação utilizando algumas tag semânticas</p>
 <p>Foi utilizada a biblioteca fontawesome para adicionar alguns ícones.</p>
 
+<h3>Exercício 02</h3>
+<p>Nesse exercício, foi adicionado alguns metadados no header do arquivo para aprimorar a indexação do site pelos mecanismos de busca</p>
+
 - [Indice](#indice)
