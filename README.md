@@ -83,4 +83,8 @@
 <h3>Exercício 02</h3>
 <p>Nesse exercício, foi adicionado alguns metadados no header do arquivo para aprimorar a indexação do site pelos mecanismos de busca</p>
 
+<h3>Exercício 03</h3>
+<p>Nesse exercício, deveria criar um arquivo HTML, que tivesse a estrutura básica e um botão de interação com o usuário</p>
+<p>Foi utilizado o <strong>prompt</strong> e <strong>confirm</strong> e <strong>alert</strong> para fazer a interação.</p>
+
 - [Indice](#indice)
