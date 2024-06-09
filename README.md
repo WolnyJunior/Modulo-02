@@ -83,4 +83,15 @@
 <h3>Exercício 02</h3>
 <p>Nesse exercício, foi adicionado alguns metadados no header do arquivo para aprimorar a indexação do site pelos mecanismos de busca</p>
 
+<h3>Exercício 03</h3>
+<p>Nesse exercício, deveria criar um arquivo HTML, que tivesse a estrutura básica e um botão de interação com o usuário</p>
+<p>Foi utilizado o <strong>prompt</strong> e <strong>confirm</strong> e <strong>alert</strong> para fazer a interação.</p>
+
+<h3>Exercício 04</h3>
+<p>Nesse exercício, deveria ser criado uma página web que exibisse uma lista de produtos.</p>
+<p>Foi criado uma <strong>div</strong> com um título em &lt;h1&gt; uma <strong>Lista Desordenada</strong> e um <strong>Botão</strong> para iniciar o evento de adição de produtos através do <strong>prompt</strong></p>
+<p>Foi desenvolvida uma função para adicionar os produtos atraves do <strong>addEventListener</strong>, ao adicionar o produto, é criado um novo &lt;li&gt; onde é adicionado o nome do produto e seu valor.</p>
+<p>Foi desenvolvida através do javascript, uma estilização para alternar a cor de fundo dos itens criado.</p>
+<p>Ao final, foi adicionado um <strong>confirm</strong> para verificar se o usuário quer continuar adicionando novos produtos ou encerrar o programa.</p>
+
 - [Indice](#indice)
