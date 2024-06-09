@@ -29,7 +29,7 @@ header nav ul {
     list-style: none;
 }
 
-header nav ul li {
+header nav ul li, button {
     margin-left: 30px;
     padding: 8px;
     border: 1px solid #fff;
@@ -40,13 +40,13 @@ header nav ul li {
     color: #fff;
 }
 
-header nav ul li:hover {
+header nav ul li:hover, button:hover {
     background: #FFF;
     border: 1px solid #000;
     color: #000;
 }
 
-header nav ul li:active {
+header nav ul li:active, button:active {
     transform: translate(2px, 2px);
     box-shadow: 0 0 0 0 #000;
 }
@@ -165,4 +165,20 @@ footer {
 
 .centralizar span{
     font-size: 30px;
+}
+
+/*  Style da página produtos.html
+    A estilização do botão da página, foi colocado junto com 
+    "header nav ul li" da página index.html
+*/
+
+.listaProdutos{
+    margin: auto;
+    list-style: none;
+    max-width: 800px;
+}
+
+.listaProdutos li{
+    padding: 10px;
+    border: 1px solid #111;
 }
