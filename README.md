@@ -87,6 +87,7 @@
 <p>Nesse exercício, deveria criar um arquivo HTML, que tivesse a estrutura básica e um botão de interação com o usuário</p>
 <p>Foi utilizado o <strong>prompt</strong> e <strong>confirm</strong> e <strong>alert</strong> para fazer a interação.</p>
 
+<<<<<<< HEAD
 <h3>Exercício 04</h3>
 <p>Nesse exercício, deveria ser criado uma página web que exibisse uma lista de produtos.</p>
 <p>Foi criado uma <strong>div</strong> com um título em &lt;h1&gt; uma <strong>Lista Desordenada</strong> e um <strong>Botão</strong> para iniciar o evento de adição de produtos através do <strong>prompt</strong></p>
@@ -94,4 +95,6 @@
 <p>Foi desenvolvida através do javascript, uma estilização para alternar a cor de fundo dos itens criado.</p>
 <p>Ao final, foi adicionado um <strong>confirm</strong> para verificar se o usuário quer continuar adicionando novos produtos ou encerrar o programa.</p>
 
+=======
+>>>>>>> d9bfcbdbda61edc56941daa0905937680a6a166d
 - [Indice](#indice)
