@@ -1,9 +1,12 @@
 ## Módulo 02 - Exercícios
 
 ## Indice
+- [Módulo 02 - Exercícios](#módulo-02---exercícios)
+- [Indice](#indice)
 - [Visão Geral](#visão-geral)
 - [Semana 01](#semana-01)
 - [Semana 02](#semana-02)
+- [Semana 03](#semana-03)
 
 ## Visão Geral
 <p>Este repositório foi criado para compartilhar no trello, os exercícios das atividades semanais do curso FuturoDev pelo LAB365 do Senai SC.</p>
@@ -71,5 +74,30 @@
 
 <h3>Exercício 07</h3>
 <p>Neste exercício, deveria simular uma colaboração em um projeto, utilizando git e github.</p>
+
+- [Indice](#indice)
+
+## Semana 03
+<h3>Exercício 01</h3>
+<p>Neste exercício foi desenvolvida uma página web que fosse utilizada como uma apresentação utilizando algumas tag semânticas</p>
+<p>Foi utilizada a biblioteca fontawesome para adicionar alguns ícones.</p>
+
+<h3>Exercício 02</h3>
+<p>Nesse exercício, foi adicionado alguns metadados no header do arquivo para aprimorar a indexação do site pelos mecanismos de busca</p>
+
+<h3>Exercício 03</h3>
+<p>Nesse exercício, deveria criar um arquivo HTML, que tivesse a estrutura básica e um botão de interação com o usuário</p>
+<p>Foi utilizado o <strong>prompt</strong> e <strong>confirm</strong> e <strong>alert</strong> para fazer a interação.</p>
+
+<h3>Exercício 04</h3>
+<p>Nesse exercício, deveria ser criado uma página web que exibisse uma lista de produtos.</p>
+<p>Foi criado uma <strong>div</strong> com um título em &lt;h1&gt; uma <strong>Lista Desordenada</strong> e um <strong>Botão</strong> para iniciar o evento de adição de produtos através do <strong>prompt</strong></p>
+<p>Foi desenvolvida uma função para adicionar os produtos atraves do <strong>addEventListener</strong>, ao adicionar o produto, é criado um novo &lt;li&gt; onde é adicionado o nome do produto e seu valor.</p>
+<p>Foi desenvolvida através do javascript, uma estilização para alternar a cor de fundo dos itens criado.</p>
+<p>Ao final, foi adicionado um <strong>confirm</strong> para verificar se o usuário quer continuar adicionando novos produtos ou encerrar o programa.</p>
+
+<h3>Exercício 05</h3>
+<p>Nesse deveria ser criado uma <strong>ToDoList</strong> para o usuário adicionar tarefaas, e deveria ser utilizado um evento de <strong>click</strong></p>
+<p>Foi desenvolvido um evento de click para adicionar uma nova tarefa, ao adicionar e criar um elemnto &lt;li&gt;, também é criado um botão para deletar o elemento. E um evento para deixar o texto <del>tachado</del> quando a tarefa estiver <strong>concluída</strong>.</p>
 
 - [Indice](#indice)
