@@ -1,6 +1,8 @@
 ## Módulo 02 - Exercícios
 
 ## Indice
+- [Módulo 02 - Exercícios](#módulo-02---exercícios)
+- [Indice](#indice)
 - [Visão Geral](#visão-geral)
 - [Semana 01](#semana-01)
 - [Semana 02](#semana-02)
@@ -93,5 +95,9 @@
 <p>Foi desenvolvida uma função para adicionar os produtos atraves do <strong>addEventListener</strong>, ao adicionar o produto, é criado um novo &lt;li&gt; onde é adicionado o nome do produto e seu valor.</p>
 <p>Foi desenvolvida através do javascript, uma estilização para alternar a cor de fundo dos itens criado.</p>
 <p>Ao final, foi adicionado um <strong>confirm</strong> para verificar se o usuário quer continuar adicionando novos produtos ou encerrar o programa.</p>
+
+<h3>Exercício 05</h3>
+<p>Nesse deveria ser criado uma <strong>ToDoList</strong> para o usuário adicionar tarefaas, e deveria ser utilizado um evento de <strong>click</strong></p>
+<p>Foi desenvolvido um evento de click para adicionar uma nova tarefa, ao adicionar e criar um elemnto &lt;li&gt;, também é criado um botão para deletar o elemento. E um evento para deixar o texto <del>tachado</del> quando a tarefa estiver <strong>concluída</strong>.</p>
 
 - [Indice](#indice)
