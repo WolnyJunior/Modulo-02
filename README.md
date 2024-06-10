@@ -1,7 +1,6 @@
 ## Módulo 02 - Exercícios
 
 ## Indice
-- [Módulo 02 - Exercícios](#módulo-02---exercícios)
 - [Indice](#indice)
 - [Visão Geral](#visão-geral)
 - [Semana 01](#semana-01)
