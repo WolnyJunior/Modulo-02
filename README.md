@@ -7,6 +7,7 @@
 - [Semana 01](#semana-01)
 - [Semana 02](#semana-02)
 - [Semana 03](#semana-03)
+- [Semana 04](#semana-04)
 
 ## Visão Geral
 <p>Este repositório foi criado para compartilhar no trello, os exercícios das atividades semanais do curso FuturoDev pelo LAB365 do Senai SC.</p>
@@ -99,5 +100,12 @@
 <h3>Exercício 05</h3>
 <p>Nesse deveria ser criado uma <strong>ToDoList</strong> para o usuário adicionar tarefaas, e deveria ser utilizado um evento de <strong>click</strong></p>
 <p>Foi desenvolvido um evento de click para adicionar uma nova tarefa, ao adicionar e criar um elemnto &lt;li&gt;, também é criado um botão para deletar o elemento. E um evento para deixar o texto <del>tachado</del> quando a tarefa estiver <strong>concluída</strong>.</p>
+
+- [Indice](#indice)
+
+## Exercício 04
+<h3>Exercícios</h3>
+<p>Criar uma página clone da netflix, e adicionar atributos e eventos.</p>
+<p>Estava sendo desenvolvido uma página mais complexa, com mais funções e eventos, porém foi decidido deixar o projeto de lado por enquanto, pela complexidade do projeto inicial.</p>
 
 - [Indice](#indice)
