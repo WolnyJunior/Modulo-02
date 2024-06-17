@@ -103,7 +103,7 @@
 
 - [Indice](#indice)
 
-## Exercício 04
+## Semana 04
 <h3>Exercícios</h3>
 <p>Criar uma página clone da netflix, e adicionar atributos e eventos.</p>
 <p>Estava sendo desenvolvido uma página mais complexa, com mais funções e eventos, porém foi decidido deixar o projeto de lado por enquanto, pela complexidade do projeto inicial.</p>
