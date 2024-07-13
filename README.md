@@ -109,3 +109,10 @@
 <p>Estava sendo desenvolvido uma página mais complexa, com mais funções e eventos, porém foi decidido deixar o projeto de lado por enquanto, pela complexidade do projeto inicial.</p>
 
 - [Indice](#indice)
+
+## Semana 06
+<h3>Exercícios: 03, 04</h3>
+<p>Criar um Header e um Footer de acordo com a imagem disponibilizada no card do trello. E utilizar site <a href="https://www.origamid.com/projetos/bikcraft/">bikcraft</a> como referência.</p>
+<p>Para realizar a atividade, foi utilizado REACT.</p>
+
+- [Indice](#indice)
