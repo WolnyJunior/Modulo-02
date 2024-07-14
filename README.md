@@ -115,4 +115,7 @@
 <p>Criar um Header e um Footer de acordo com a imagem disponibilizada no card do trello. E utilizar site <a href="https://www.origamid.com/projetos/bikcraft/">bikcraft</a> como referência.</p>
 <p>Para realizar a atividade, foi utilizado REACT.</p>
 
+<h3>Exercício 06</h3>
+<p>Modificar o index.css presente no projeto e ajustá-lo para que a tela da aplicação ocupe 100% de largura, inclusive os componentes.</p>
+
 - [Indice](#indice)
