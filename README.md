@@ -118,4 +118,8 @@
 <h3>Exercício 06</h3>
 <p>Modificar o index.css presente no projeto e ajustá-lo para que a tela da aplicação ocupe 100% de largura, inclusive os componentes.</p>
 
+<h3>Exercícios: 07, 08</h3>
+<p>Adiconar um componente para contato em App.jsx com inputs para nome, email, textarea e um botão para enviar.</p>
+<p>Cada propriedade deve ser conectada com os inputs e o botão de enviar, deve chamar uma função de onClick e printar uma mensagem na tela.</p>
+
 - [Indice](#indice)
