@@ -123,3 +123,8 @@
 <p>Cada propriedade deve ser conectada com os inputs e o botão de enviar, deve chamar uma função de onClick e printar uma mensagem na tela.</p>
 
 - [Indice](#indice)
+
+## Semana 07
+<h3>Exercício 01</h3>
+<p>Desenvolver um contador utilizando useState.</p>
+<p>Para desenvolver o contador, foi utilizado o código que já traz um contador, foram alterados alguns itens e adicionado um novo botão para fazer a função de decrementar no contador, utilizando a lógica já contida no projeto.</p>
