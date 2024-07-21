@@ -139,6 +139,9 @@
 <h3>Exercício 04</h3>
 <p>Crie um formulário simples com campos de entrada para nome, e-mail e idade. Utilize useState para armazenar os valores dos campos e useEffect para validar os dados do formulário. O objetivo é apresentar uma mensagem na tela quando o formulário estiver totalmente preenchido.</p>
 
+<h3>Exercício 05</h3>
+<p>Criar um componente de input controlado que permita ao usuário digitar um texto e exibir o texto digitado na tela.</p>
+
 
 
 - [Indice](#indice)
