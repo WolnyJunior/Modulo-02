@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import NewsAPI from './components/NewsAPI'
 import Input from './components/Input'
+import Formulario from './components/Formulario'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -22,6 +23,10 @@ function App() {
       <hr />
       <br />
       <Input></Input>
+      <br />
+      <hr />
+      <br />
+      <Formulario></Formulario>
     </>
   )
 }
