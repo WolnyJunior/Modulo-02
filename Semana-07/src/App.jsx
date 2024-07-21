@@ -3,6 +3,7 @@ import './App.css'
 import NewsAPI from './components/NewsAPI'
 import Input from './components/Input'
 import Formulario from './components/Formulario'
+import ComponentesControlados from './components/ComponenteControlado'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -27,6 +28,10 @@ function App() {
       <hr />
       <br />
       <Formulario></Formulario>
+      <br />
+      <hr />
+      <br />
+      <ComponentesControlados></ComponentesControlados>
     </>
   )
 }
