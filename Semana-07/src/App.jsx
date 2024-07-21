@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import NewsAPI from './components/NewsAPI'
+import Input from './components/Input'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,6 +18,10 @@ function App() {
       <hr />
       <br />
       <NewsAPI></NewsAPI>
+      <br />
+      <hr />
+      <br />
+      <Input></Input>
     </>
   )
 }
