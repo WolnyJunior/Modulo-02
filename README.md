@@ -128,3 +128,11 @@
 <h3>Exercício 01</h3>
 <p>Desenvolver um contador utilizando useState.</p>
 <p>Para desenvolver o contador, foi utilizado o código que já traz um contador, foram alterados alguns itens e adicionado um novo botão para fazer a função de decrementar no contador, utilizando a lógica já contida no projeto.</p>
+
+<h3>Exercício 03</h3>
+<p>Desenvolva dois elementos: um input e um botão. Utilize o evento onChange do input para capturar seu valor a cada alteração e adicionar esse valor a um estado. Ao clicar no botão, recupere esse valor do estado e adicione-o a um estado de lista, o qual deve ser uma matriz de strings.</p>
+<p>Aproveite esse estado de lista e renderize dentro de uma &lt;ul&gt;>com &lt;li&gt</p>
+
+
+
+- [Indice](#indice)
