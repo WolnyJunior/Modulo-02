@@ -129,9 +129,15 @@
 <p>Desenvolver um contador utilizando useState.</p>
 <p>Para desenvolver o contador, foi utilizado o código que já traz um contador, foram alterados alguns itens e adicionado um novo botão para fazer a função de decrementar no contador, utilizando a lógica já contida no projeto.</p>
 
+<h3>Exercício 02</h3>
+<p>Utilize o useEffect para executar uma função ao carregar o componente. Essa função fará uma requisição para a API da IBGE, obtendo o título da primeira notícia de destaque do dia. Posteriormente, os dados recebidos serão utilizados para atualizar o estado que armazena o texto, o qual é inicializado com o valor nulo.</p>
+
 <h3>Exercício 03</h3>
 <p>Desenvolva dois elementos: um input e um botão. Utilize o evento onChange do input para capturar seu valor a cada alteração e adicionar esse valor a um estado. Ao clicar no botão, recupere esse valor do estado e adicione-o a um estado de lista, o qual deve ser uma matriz de strings.</p>
 <p>Aproveite esse estado de lista e renderize dentro de uma &lt;ul&gt;>com &lt;li&gt</p>
+
+<h3>Exercício 04</h3>
+<p>Crie um formulário simples com campos de entrada para nome, e-mail e idade. Utilize useState para armazenar os valores dos campos e useEffect para validar os dados do formulário. O objetivo é apresentar uma mensagem na tela quando o formulário estiver totalmente preenchido.</p>
 
 
 
