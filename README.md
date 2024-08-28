@@ -109,3 +109,39 @@
 <p>Estava sendo desenvolvido uma página mais complexa, com mais funções e eventos, porém foi decidido deixar o projeto de lado por enquanto, pela complexidade do projeto inicial.</p>
 
 - [Indice](#indice)
+
+## Semana 06
+<h3>Exercícios: 03, 04</h3>
+<p>Criar um Header e um Footer de acordo com a imagem disponibilizada no card do trello. E utilizar site <a href="https://www.origamid.com/projetos/bikcraft/">bikcraft</a> como referência.</p>
+<p>Para realizar a atividade, foi utilizado REACT.</p>
+
+<h3>Exercício 06</h3>
+<p>Modificar o index.css presente no projeto e ajustá-lo para que a tela da aplicação ocupe 100% de largura, inclusive os componentes.</p>
+
+<h3>Exercícios: 07, 08</h3>
+<p>Adiconar um componente para contato em App.jsx com inputs para nome, email, textarea e um botão para enviar.</p>
+<p>Cada propriedade deve ser conectada com os inputs e o botão de enviar, deve chamar uma função de onClick e printar uma mensagem na tela.</p>
+
+- [Indice](#indice)
+
+## Semana 07
+<h3>Exercício 01</h3>
+<p>Desenvolver um contador utilizando useState.</p>
+<p>Para desenvolver o contador, foi utilizado o código que já traz um contador, foram alterados alguns itens e adicionado um novo botão para fazer a função de decrementar no contador, utilizando a lógica já contida no projeto.</p>
+
+<h3>Exercício 02</h3>
+<p>Utilize o useEffect para executar uma função ao carregar o componente. Essa função fará uma requisição para a API da IBGE, obtendo o título da primeira notícia de destaque do dia. Posteriormente, os dados recebidos serão utilizados para atualizar o estado que armazena o texto, o qual é inicializado com o valor nulo.</p>
+
+<h3>Exercício 03</h3>
+<p>Desenvolva dois elementos: um input e um botão. Utilize o evento onChange do input para capturar seu valor a cada alteração e adicionar esse valor a um estado. Ao clicar no botão, recupere esse valor do estado e adicione-o a um estado de lista, o qual deve ser uma matriz de strings.</p>
+<p>Aproveite esse estado de lista e renderize dentro de uma &lt;ul&gt;>com &lt;li&gt</p>
+
+<h3>Exercício 04</h3>
+<p>Crie um formulário simples com campos de entrada para nome, e-mail e idade. Utilize useState para armazenar os valores dos campos e useEffect para validar os dados do formulário. O objetivo é apresentar uma mensagem na tela quando o formulário estiver totalmente preenchido.</p>
+
+<h3>Exercício 05</h3>
+<p>Criar um componente de input controlado que permita ao usuário digitar um texto e exibir o texto digitado na tela.</p>
+
+
+
+- [Indice](#indice)

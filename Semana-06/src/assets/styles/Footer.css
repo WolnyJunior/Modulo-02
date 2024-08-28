@@ -1,0 +1,22 @@
+.footer{
+    padding: 20px;
+    height: 50vh;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer img{
+    height: 10%;
+}
+
+.footer ul li {
+    list-style: none;
+    font-size: 1.2rem;
+}
+
+.redes-sociais {
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,46 @@
+.hero {
+    height: 50vh;
+    background-color: #ffca00;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.text {
+    margin-bottom: 15px;
+}
+
+.hero h1 {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    color: #333;
+}
+
+/* Estilização do INPUT */
+.input-container {
+    position: relative; /* Define o contêiner como relativo */
+    display: inline-block; /* Faz com que o contêiner se ajuste ao conteúdo */
+    width: 45%;
+  }
+  
+  .input-container i {
+    position: absolute; /* Posiciona o ícone de forma absoluta dentro do contêiner */
+    top: 50%;
+    left: 10px; /* Ajuste a distância do ícone da borda esquerda conforme necessário */
+    transform: translateY(-50%); /* Alinha verticalmente o ícone */
+    color: #888; /* Cor do ícone */
+  }
+  
+  .input-container input {
+    padding-left: 40px; /* Espaço para o ícone */
+    width: 200px; /* Ajuste conforme necessário */
+    border: 1px solid #ccc; /* Estilo da borda do input */
+    border-radius: 4px; /* Bordas arredondadas */
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #666;
+  }
+  

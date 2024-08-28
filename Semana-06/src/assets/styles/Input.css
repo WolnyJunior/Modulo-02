@@ -1,0 +1,11 @@
+.form{
+    margin: auto;
+    padding: 20px;
+    width: 50%;
+}
+.form button{
+    width: 100%;
+    margin: 5px 0;
+    background-color: green;
+    color: #fff;
+}

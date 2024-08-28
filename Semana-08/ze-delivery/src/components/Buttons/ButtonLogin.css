@@ -1,0 +1,78 @@
+.buttons-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons-login button {
+    padding: 15px 30px;
+    width: 21rem;
+    margin: 20px 0;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.buttons-login i {
+    /* margin-right: 10px; */
+    /* font-size: 18px; */
+    color: antiquewhite;
+}
+
+.border-left {
+    width: 1px;
+    height: 46px;
+    margin-left: -185px;
+    position: absolute;
+    border-left: 1px solid rgba(0, 0, 0, .1);
+
+}
+
+.facebook {
+    background-color: #3458a4;
+}
+
+.apple {
+    background-color: #333333;
+}
+
+.text-line {
+    position: relative;
+    /* Define a posição relativa para o span */
+    display: inline-block;
+    /* Mantém o elemento inline */
+    color: #999;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.text-line::before,
+.text-line::after {
+    content: '';
+    /* Nenhum conteúdo */
+    position: absolute;
+    /* Posiciona o pseudo-elemento absolutamente */
+    top: 50%;
+    /* Coloca a linha no meio vertical */
+    width: 130px;
+    /* Largura da linha */
+    height: 1px;
+    /* Espessura da linha */
+    background-color: #999;
+    /* Cor da linha */
+}
+
+.text-line::before {
+    left: -135px;
+    /* Posiciona a linha antes do texto */
+}
+
+.text-line::after {
+    right: -135px;
+    /* Posiciona a linha depois do texto */
+}
