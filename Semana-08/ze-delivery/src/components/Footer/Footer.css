@@ -1,0 +1,31 @@
+.rodape-login{
+    color: #999;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+.termos-de-uso-rodape{
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.termos-de-uso-rodape p {
+    margin: 10px;
+    font-weight: 500;
+    color: #444;
+}
+
+.infos{
+    font-size: 12px;
+    font-weight: 500;
+    color: #999;
+    text-align: center;
+    margin: 20px;
+}

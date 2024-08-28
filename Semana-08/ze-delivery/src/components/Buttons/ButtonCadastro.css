@@ -1,0 +1,18 @@
+.cadastro input {
+    padding: 15px;
+    margin: 10px 0;
+    font-size: 14px;
+    width: 21rem;
+    border: 1px solid #999;
+    border-radius: 5px;
+}
+
+.buttonCadastro {
+    background-color: #ffca00;
+    padding: 15px 30px;
+    width: 24rem;
+    margin: 20px 0;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
