@@ -13,7 +13,7 @@ export function TemplatePrivateRoute() {
                 <div className={styles.containerNavbar}>
                     <a className="navbar-brand" href="#">DASHBOARD</a>
                     <div className={styles.boxUser}>
-                        <span className="text-secondary"><User/>{user.nome}</span>
+                        <span className="text-secondary"><User/>{user.username}</span>
                         <button className="btn btn-dark" onClick={signOut}><LogOut /></button>
                     </div>
                 </div>
