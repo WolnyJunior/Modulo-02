@@ -142,6 +142,20 @@
 <h3>Exercício 05</h3>
 <p>Criar um componente de input controlado que permita ao usuário digitar um texto e exibir o texto digitado na tela.</p>
 
+- [Indice](#indice)
+
+## Semana 09
+### Instalação
+- `npm i lucide-react`
+- `npm i react-hook-form`
+- `npm i react-router-dom`
+- `npm install react-bootstrap bootstrap`
+
+<h3>Exercício 01</h3>
+<p>Crie um formulário React para cadastro de usuários utilizando React Hook Form. O formulário deve incluir campos para nome, e-mail e senha.</p>
+
+<h3>Exercício 02</h3>
+<p>Criar um contexto de autenticação para gerenciar o estado de autenticação de um usuário. O contexto deve incluir dois métodos e um estado para manter informações sobre a autenticação do usuário</p>
 
 
 - [Indice](#indice)
